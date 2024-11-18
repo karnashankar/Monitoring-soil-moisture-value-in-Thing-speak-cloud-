@@ -88,7 +88,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include <WiFi.h>
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 #define Soil_Moisture 34
-char ssid[] = "Sripriya";   // your network SSID (name) 
+char ssid[] = "Surendhar";   // your network SSID (name) 
 char pass[] = "123456789";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
